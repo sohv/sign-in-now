@@ -1,0 +1,8 @@
+.venv/
+backend/__pycache__/
+backend/.env
+frontend/.next/
+frontend/.env.local
+frontend/node_modules/
+signup-frontend.txt
+frontend/.gitignore
